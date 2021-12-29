@@ -10,3 +10,5 @@ That's why I created Discord Scam Protecc!
 
 It blocks you from visiting most Discord scam websites (unless they were deleted)
 and redirects you to a page where you can buy some Nitro for yourself, legally!
+
+## You can download the userscript [here](https://greasyfork.org/en/scripts/437701-discord-scam-protecc)

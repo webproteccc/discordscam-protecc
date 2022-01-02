@@ -704,6 +704,7 @@
 // @match https://*stearncommunity.link/*
 // @match https://*stearncommunity.ru/*
 // @match https://*sterncommunity.ru/*
+// @match https://*gifte-discorde.com/*
 // big thanks to @BuildBot42 on GitHub and all the contributors to https://github.com/BuildBot42/discord-scam-links for all these links!!
 // @icon         https://raw.githubusercontent.com/webproteccc/discordscam-protecc-web/master/img/icon128x128.png
 // @run-at       document-start
